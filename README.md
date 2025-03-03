@@ -1,6 +1,6 @@
 # 📱 Mobile Price Prediction using Multiple Regression
 
-![Mobile Price Prediction](https://example.com/mobile-price-banner.jpg)
+![Mobile Price Prediction](https://github.com/tusharjkhapre/Mobile-price-Prediction-using-multiple-linear-Regression/blob/main/dataset-cover.png)
 
 ## 🌟 Overview
 This project is a **mobile price prediction system** using **multiple linear regression models** for different regions:
