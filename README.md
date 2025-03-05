@@ -56,7 +56,7 @@ streamlit run app.py
 ```
 
 ![Streamlit App](https://example.com/streamlit-app-screenshot.jpg)
-
+https://huggingface.co/spaces/tushar1620/Mobile_Price_prediction_multi_linear
 ---
 
 ## 🎯 Usage
