@@ -55,7 +55,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-![Streamlit App](https://example.com/streamlit-app-screenshot.jpg)
+![Streamlit App](https://github.com/tusharjkhapre/Mobile-price-Prediction-using-multiple-linear-Regression/blob/main/Screenshot%202025-03-06%20004136.png))
 https://huggingface.co/spaces/tushar1620/Mobile_Price_prediction_multi_linear
 ---
 
